@@ -24,7 +24,7 @@ function App() {
                     width: '600px',
                     height: 'auto',
                     margin: '25px'
-                }} alt="Pontus" src="pbnewpic.jpg" />
+                }} alt="Pontus" src="/pbnewpic.jpg" />
                 <Box sx={{ color: 'black', marginLeft: '20px' }}>Har int sö myck å kom mä</Box> {/* Optional margin for spacing */}
             </Box>
             <Footer />
